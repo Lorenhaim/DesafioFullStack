@@ -6,9 +6,9 @@ Um layout final bem elaborado e desenhado aponta para um diferencial seu, mas n�
 
 ## Regras
 
-1. Todo o seu código deve ser disponibilizado num repositório público ou privado em seu github ou bitbucket pessoal. Envie o link para william.kennedy@routeasy.com.br no prazo de 3 dias após o recebimento deste desafio;
+1. Todo o seu código deve ser disponibilizado num repositório público ou privado em seu github ou bitbucket pessoal. 
 2. Desenvolver o projeto utilizando: 
-    - MERN Stack (MongoDB, Express.js, React.js e Node.js)
+    - MongoDB, Express.js, React.js/Next.js e Node.js
     - [Mongoose](http://mongoosejs.com) para modelagem dos dados a serem gravados no banco
     - HTML e CSS (ou algum pré-processador)
     - [Google Geocode API](https://developers.google.com/maps/documentation/geocoding/intro?hl=pt-br) (se precisar de uma API Key do Google, basta solicitar por e-mail)
@@ -62,5 +62,9 @@ Há um botão na tabela para excluir a delivery. Ele deverá remover todos os cl
 
 
 
-## Dúvidas
-Envie suas dúvidas diretamente para william.kennedy@routeasy.com.br ou abrindo uma issue.
+## Como enviar o código do seu aplicativo
+
+Quando achar que terminou, envie-nos por e-mail:
+
+- Um link para um **repositório GitHub privado** com um acesso de convite para \[@Lorenhaim\] (https://github.com/Lorenhaim)
+- Uma **demonstração online** do aplicativo (a versão gratuita do Netlify/heroku/etc é altamente recomendada 😉️)
